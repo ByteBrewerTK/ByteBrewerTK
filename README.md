@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Driven UG student in B.Tech, seeking new challenges and opportunities to grow<br>👯 Passionate about collaborating on web development projects and bringing fresh ideas to the table<br>🤝 Seeking help to expand my web development skills and collaborate on challenging projects that make a positive impact.<br>🌱 Focused on mastering web development
+🚀 Enthusiastic B.Tech student specializing in Full Stack/MERN Stack development<br>👯 Eager to collaborate on innovative web development projects, contributing fresh ideas and fostering teamwork<br>🤝 Actively seeking opportunities to enhance my web development skills and engage in challenging projects with a positive impact<br>🌱 Committed to mastering the art of web development and exploring new avenues for growth
 
 
 ## 🌐 Socials:
