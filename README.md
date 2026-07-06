@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Enthusiastic B.Tech student specializing in Full Stack/MERN Stack development<br>👯 Eager to collaborate on innovative web development projects, contributing fresh ideas and fostering teamwork<br>🤝 Actively seeking opportunities to enhance my web development skills and engage in challenging projects with a positive impact<br>🌱 Committed to mastering the art of web development and exploring new avenues for growth
+Building...
 
 
 ## 🌐 Socials:
